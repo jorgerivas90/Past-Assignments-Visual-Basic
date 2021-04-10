@@ -1,0 +1,12 @@
+C:\Users\jorge\Desktop\Jorge Rivas\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.exe.config
+C:\Users\jorge\Desktop\Jorge Rivas\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.exe
+C:\Users\jorge\Desktop\Jorge Rivas\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.pdb
+C:\Users\jorge\Desktop\Jorge Rivas\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.xml
+C:\Users\jorge\Desktop\Jorge Rivas\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.vbprojAssemblyReference.cache
+C:\Users\jorge\Desktop\Jorge Rivas\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins_Project.frmMain.resources
+C:\Users\jorge\Desktop\Jorge Rivas\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins_Project.Resources.resources
+C:\Users\jorge\Desktop\Jorge Rivas\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.vbproj.GenerateResource.cache
+C:\Users\jorge\Desktop\Jorge Rivas\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.vbproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\Jorge Rivas\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.exe
+C:\Users\jorge\Desktop\Jorge Rivas\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.xml
+C:\Users\jorge\Desktop\Jorge Rivas\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.pdb

@@ -1,0 +1,34 @@
+E:\VB2017\Chap06\Concert Solution\Concert Project\bin\Debug\Concert Project.exe.config
+E:\VB2017\Chap06\Concert Solution\Concert Project\bin\Debug\Concert Project.exe
+E:\VB2017\Chap06\Concert Solution\Concert Project\bin\Debug\Concert Project.pdb
+E:\VB2017\Chap06\Concert Solution\Concert Project\bin\Debug\Concert Project.xml
+E:\VB2017\Chap06\Concert Solution\Concert Project\obj\Debug\Concert Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap06\Concert Solution\Concert Project\obj\Debug\Concert_Project.frmMain.resources
+E:\VB2017\Chap06\Concert Solution\Concert Project\obj\Debug\Concert_Project.Resources.resources
+E:\VB2017\Chap06\Concert Solution\Concert Project\obj\Debug\Concert Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap06\Concert Solution\Concert Project\obj\Debug\Concert Project.exe
+E:\VB2017\Chap06\Concert Solution\Concert Project\obj\Debug\Concert Project.xml
+E:\VB2017\Chap06\Concert Solution\Concert Project\obj\Debug\Concert Project.pdb
+E:\VB2017\Chap06\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.exe.config
+E:\VB2017\Chap06\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.exe
+E:\VB2017\Chap06\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.pdb
+E:\VB2017\Chap06\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.xml
+E:\VB2017\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert_Project.frmMain.resources
+E:\VB2017\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert_Project.Resources.resources
+E:\VB2017\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.exe
+E:\VB2017\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.xml
+E:\VB2017\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.pdb
+C:\Users\jorge\Desktop\Jorge Rivas\Concert Solution-Function\Concert Project\bin\Debug\Concert Project.exe.config
+C:\Users\jorge\Desktop\Jorge Rivas\Concert Solution-Function\Concert Project\bin\Debug\Concert Project.exe
+C:\Users\jorge\Desktop\Jorge Rivas\Concert Solution-Function\Concert Project\bin\Debug\Concert Project.pdb
+C:\Users\jorge\Desktop\Jorge Rivas\Concert Solution-Function\Concert Project\bin\Debug\Concert Project.xml
+C:\Users\jorge\Desktop\Jorge Rivas\Concert Solution-Function\Concert Project\obj\Debug\Concert Project.vbprojAssemblyReference.cache
+C:\Users\jorge\Desktop\Jorge Rivas\Concert Solution-Function\Concert Project\obj\Debug\Concert_Project.frmMain.resources
+C:\Users\jorge\Desktop\Jorge Rivas\Concert Solution-Function\Concert Project\obj\Debug\Concert_Project.Resources.resources
+C:\Users\jorge\Desktop\Jorge Rivas\Concert Solution-Function\Concert Project\obj\Debug\Concert Project.vbproj.GenerateResource.cache
+C:\Users\jorge\Desktop\Jorge Rivas\Concert Solution-Function\Concert Project\obj\Debug\Concert Project.vbproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\Jorge Rivas\Concert Solution-Function\Concert Project\obj\Debug\Concert Project.exe
+C:\Users\jorge\Desktop\Jorge Rivas\Concert Solution-Function\Concert Project\obj\Debug\Concert Project.xml
+C:\Users\jorge\Desktop\Jorge Rivas\Concert Solution-Function\Concert Project\obj\Debug\Concert Project.pdb
